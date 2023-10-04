@@ -11,7 +11,7 @@ Welcome to the GPT-3 Landing Page project! This modern and fully responsive webs
 
 ## Preview 📷
 
-![GPT-3 Landing Page](path/to/your/screenshot.png)
+<img src="/src/assets/Figma Landing-Page.png" alt="Figma-Landing-Page" />
 
 ## Getting Started 🚀
 
@@ -51,10 +51,6 @@ Feel free to customize the content and styles! The code is well-organized, makin
 ## Contributing 🤝
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
-
-## License 📝
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙌
 
